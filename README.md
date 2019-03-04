@@ -15,7 +15,7 @@ You can run it in local using 'node.js'
 $ git clone https://github.com/jonghun03/Source-FastDL.git
 ```
 
-## Get Dependency Libraries
+### Get Dependency Libraries
 
 1. Go unzipped or git clone Folder.
 2. Follow below command(bash, cmd, powershell, or etc)
