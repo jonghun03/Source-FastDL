@@ -8,14 +8,25 @@ You can run it in local using 'node.js'
 
 ### Get Repository
 
-Follow below 'git' command, or download zip file directly.
+1. Go root folder of Source server.
+2. Follow below 'git' command HERE, or download file directly, and unzip file 
 
 ```bash
 $ git clone https://github.com/jonghun03/Source-FastDL.git
 ```
+
+## Get Dependency Libraries
+
+1. Go unzipped or git clone Folder.
+2. Follow below command(bash, cmd, powershell, or etc)
+
+```bash
+$ npm
+```
+
 ### Setting
 
-You must set FastDL server port in index.js
+You must set FastDL server port in server.js
 
 ### Run
 
